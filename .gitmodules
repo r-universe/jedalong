@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "stampr"]
+	path = stampr
+	url = https://github.com/jedalong/stampr
+	shallow = true
+	registered = true
 [submodule "wildlifeDI"]
 	path = wildlifeDI
 	url = https://github.com/jedalong/wildlifedi
